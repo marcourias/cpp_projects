@@ -1,6 +1,19 @@
-## Code Overview
+# C++ Projects
 
-This repository contains a program that implements a stack and a queue data structure, offering various operations for managing and interacting with these data structures. Whether you're new to programming or an experienced developer, this program provides a user-friendly way to understand and work with stacks and queues.
+Welcome to the `cpp_projects` repository! This collection contains various C++ projects, each designed to demonstrate specific programming concepts and techniques. Each project is contained in its own directory and includes a brief overview, usage instructions, and relevant code files.
+
+Feel free to explore the different projects and learn from their implementations. If you have ideas for improvements or would like to contribute, please follow the guidelines in the CONTRIBUTING.md file.
+
+## Table of Contents
+
+1. [Stack and Queue Implementation](./stack_and_queue)
+2. [Project 2 Title](./project2_directory)
+3. [Project 3 Title](./project3_directory)
+   <!-- Add more projects as needed -->
+
+## Project 1: Stack and Queue Implementation
+
+This project implements a stack and a queue data structure, offering various operations for managing and interacting with these data structures.
 
 ### Main Features
 
@@ -22,19 +35,3 @@ To use the program, follow these steps:
 4. **Interaction**: Depending on your choice, follow the step-by-step instructions to interact with the stack or queue. You can push, pop, search for values, and more.
 
 5. **Exiting**: To exit the program, choose the "Salir" (Exit) option from the main menu.
-
-## Function Descriptions
-
-- `pushtoPila()`, `encolar()`: Pushes values onto the stack or queue after validating their positivity, parity, and uniqueness.
-- `buscarPila()`, `buscarCola()`: Searches for a specified value within the stack or queue and provides its position if found.
-- `menorPila()`, `menorCola()`: Finds and displays the smallest value in the stack or queue along with its position.
-- `mayorPila()`, `mayorCola()`: Finds and displays the largest value in the stack or queue along with its position.
-- `popPila()`, `popCola()`: Removes elements from the stack or queue while providing details about the removed values.
-
-## Examples
-
-For instance, to add values to the stack:
-
-1. Choose the "Pila" option from the main menu.
-2. Select the "Apilar valor" (Push value) option.
-3. Follow the prompts to enter valid positive, even, and unique values.
