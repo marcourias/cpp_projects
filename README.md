@@ -8,7 +8,7 @@ Feel free to explore the different projects and learn from their implementations
 
 1. [Stack and Queue Implementation](./stack_and_queue.cpp)
 2. [Search Algorithms](./search_algorithms.cpp)
-3. [Project 3 Title](./project3_directory)
+3. [Project 3 Title](./array_sorting_and_search.cpp)
    <!-- Add more projects as needed -->
 
 ## Project 1: Stack and Queue Implementation
