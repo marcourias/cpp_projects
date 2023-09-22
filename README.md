@@ -35,3 +35,49 @@ To use the program, follow these steps:
 4. **Interaction**: Depending on your choice, follow the step-by-step instructions to interact with the stack or queue. You can push, pop, search for values, and more.
 
 5. **Exiting**: To exit the program, choose the "Salir" (Exit) option from the main menu.
+
+
+
+## Project 2: Search Algorithms in C++
+
+This C++ program demonstrates various search algorithms for finding elements in an array. It allows you to perform linear search, binary search, and interpolation search on a set of positive even integers stored in an array.
+
+### Features
+
+- **Linear Search:** Performs a linear search to find a target value in the array. It displays the iterations and results of the search.
+
+- **Quick Sort:** Sorts the input array using the quicksort algorithm, making it suitable for binary search.
+
+- **Binary Search:** Performs a binary search on the sorted array to find a target value. It shows the iterations and results of the search.
+
+- **Interpolation Search:** Performs an interpolation search on the sorted array to find a target value. It displays the iterations and results of the search.
+
+- **User Interaction:** Provides a user-friendly menu to choose search methods and input values.
+
+- **Input Validation:** Ensures that input values are positive and even.
+
+### Getting Started
+
+1. **Compilation:**
+   - Compile the program using a C++ compiler.
+
+2. **Execution:**
+   - Run the compiled program.
+
+3. **Main Menu:**
+   - Choose from the available search methods (linear, binary, interpolation) or exit the program.
+
+4. **Array Input:**
+   - Input up to 10 positive even integers into the array.
+
+5. **Search and Results:**
+   - Perform searches, and the program will display search iterations and results.
+
+### Usage
+
+Follow the on-screen instructions to interact with the program. Input positive even integers to search for within the array.
+
+### Contributing
+
+If you have ideas for improvements or would like to contribute to this project, please follow the guidelines in the CONTRIBUTING.md file.
+
