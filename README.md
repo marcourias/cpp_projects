@@ -38,6 +38,8 @@ To use the program, follow these steps:
 
 
 
+
+
 ## Project 2: Search Algorithms in C++
 
 This C++ program demonstrates various search algorithms for finding elements in an array. It allows you to perform linear search, binary search, and interpolation search on a set of positive even integers stored in an array.
@@ -80,4 +82,36 @@ Follow the on-screen instructions to interact with the program. Input positive e
 ### Contributing
 
 If you have ideas for improvements or would like to contribute to this project, please follow the guidelines in the CONTRIBUTING.md file.
+
+
+
+## Project 3: Data Structures in C++ - Array Sorting and Search
+
+This C++ program demonstrates various operations related to arrays, including sorting and searching algorithms. It serves as an educational example for understanding basic data structures and algorithms in C++. The program includes the following features:
+
+### Features
+
+1. **Array Management**: Allows users to create, populate, and display arrays of names and corresponding numeric values (representing grades or scores).
+
+2. **Sorting Algorithms**: Implements four sorting algorithms:
+   - Bubble Sort
+   - Insertion Sort
+   - Selection Sort
+   - Quicksort
+
+3. **Search Algorithms**: Provides three search algorithms:
+   - Linear Search
+   - Binary Search
+   - Interpolation Search
+
+4. **Interactive Menu**: Utilizes an interactive menu system for user-friendly interaction.
+
+### Usage
+
+1. Run the program and choose from the menu options to perform various operations.
+
+### Compilation
+
+You can compile and run the program using a C++ compiler. For example, using g++:
+
 
