@@ -7,7 +7,7 @@ Feel free to explore the different projects and learn from their implementations
 ## Table of Contents
 
 1. [Stack and Queue Implementation](./stack_and_queue.cpp)
-2. [Project 2 Title](./project2_directory)
+2. [Search Algorithms](./search_algorithms.cpp)
 3. [Project 3 Title](./project3_directory)
    <!-- Add more projects as needed -->
 
